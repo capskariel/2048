@@ -1,0 +1,1 @@
+Jogo 2048 onde o objetivo é combinar os numeros em pares de forma que eles viram um novo número maior até chegar ao número 2048.
